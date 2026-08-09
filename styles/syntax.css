@@ -252,4 +252,8 @@
     --syntax-invalid-color: var(--color-neutral-300);
     --syntax-invalid-border-bottom: 1px dotted var(--color-red-500);
   }
+
+  :root:has(body.acrylic-window) {
+    --editor-background-color: transparent;
+  }
 }
