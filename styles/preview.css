@@ -11,6 +11,11 @@
     /* Links (was --color-accent-fg) */
     --mde-preview-link-color: var(--color-cyan-500);
 
+    /* Lists */
+    --mde-preview-list-marker-color: hsl(var(--hsl-green-500));
+    --mde-preview-list-marker-2-color: hsl(var(--hsl-orange-500));
+    --mde-preview-list-marker-3-color: hsl(var(--hsl-cyan-500));
+
     /* Code blocks */
     --mde-preview-codeblock-background-color: var(
       --solarized-preview-surface-subtle

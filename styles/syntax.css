@@ -111,6 +111,8 @@
     --md-blockquote-border-color: var(--color-neutral-400);
 
     --md-list-mark-color: var(--color-green-500);
+    --md-list-mark-2-color: var(--color-orange-500);
+    --md-list-mark-3-color: var(--color-cyan-500);
     --md-task-marker-font-weight: bold;
 
     /*── Syntax tokens — the matching .tok-* rules live in @inkdropapp/css ─────*/
